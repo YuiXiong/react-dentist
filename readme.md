@@ -1,0 +1,1 @@
+GA homework for w15d3, largely to set up routes for different components.
